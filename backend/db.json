@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "name": "Chinelo Havaianas",
+      "price": "29.99",
+      "id": 2
+    }
+  ]
+}
