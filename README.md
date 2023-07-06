@@ -15,6 +15,8 @@ Além disso, pude ter um melhor aprendizado do TypeScript, pois fiz uso de:
 * Interfaces
 * Generics
 
+<hr>
+
 # Como usar
 Para usar o gerenciamento de usuários, você deve ter o Node.js instalado em sua máquina. Caso ainda não possua o Node instalado, instale-o pelo <a href="https://nodejs.org/en">site oficial</a>. Com o Node em sua máquina, execute os seguintes passos:
 
