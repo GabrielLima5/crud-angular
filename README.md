@@ -1,4 +1,6 @@
 # CRUD Angular
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/CRUD%20Angular.jpg">
+
 Sistema de CRUD (Create, Read, Update and Delete) de produtos desenvolvido utilizando o framework Angular, durante o Curso Web Moderno da <a href="https://www.cod3r.com.br/">Cod3r Treinamentos</a>.
 
 Durante o desenvolvimento desse projeto, tive o meu primeiro contato com Angular, onde aprendi alguns conceitos desse framework, como:
@@ -48,5 +50,3 @@ npm start
 ```
 
 * 3. Pronto! Agora tanto o Frontend como o Backend da aplicação estão ativos e ela está pronta.
-
-<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/CRUD%20Angular.jpg">
