@@ -2,13 +2,13 @@
     position: fixed;
     bottom: 0;
     background-color: unset;
-    color: black;
+    color: white;
 
     display: flex;
     justify-content: flex-end;
 }
 
 .footer span{
-    font-size: 1.1rem;
+    font-size: .9rem;
     font-weight: 500;
 }

@@ -1,14 +1,18 @@
 form {
-    background-color: white;
+    background-color: #270039;
     display: flex;
     flex-direction: column;
 }
 
 .title{
-    background-color: white;
-    color: black;
+    background-color: #270039;
+    color: white
 }
 
 button {
     margin: 20px 15px 0 0;
+}
+
+.input::placeholder{
+    color: white;
 }

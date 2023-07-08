@@ -1,6 +1,8 @@
 .header{
     display: flex;
     align-items: center;
+    background: #6a3093; 
+    background: linear-gradient(to right, #a044ff, #6a3093);
 }
 
 .header a{
@@ -11,7 +13,7 @@
 }
 
 .header .logo {
-    max-height: 32px;
+    max-height: 64px;
 }
 
 .header .title-group{

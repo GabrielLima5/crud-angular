@@ -1,5 +1,5 @@
 .sidenav{
-    background-color: #3f51b5;
+    background-color: #290048;
     width: 200px;
 }
 
@@ -13,5 +13,11 @@
 
 .content {
     padding: 16px;
-    background-color: white !important;
+    background-color: #270039 !important;
+}
+
+@media only screen and (max-width: 800px){
+    .sidenav{
+        width: 60px;
+    }
 }
